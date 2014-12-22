@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The dignitie of chiualrie set forth in a sermon preached before the Artillery Company of London, Iun
+
+1. TO THE RIGHT VVorshipfull, HVGH HAMMERSLY Esquire, One of the Aldermen and Coronels of the Honourable Citie of LONDON, and President of the Martiall Company, exercising Armes in the Artillery Garden:
+
 #####Body#####
-The dignitie of chiualrie set forth in a sermon preached before the Artillery Company of London, Iun
+
+1. THE DIGNITIE OF CHIVALRY; Set forth in a Sermon preached before the Artillery Company of London, 13. Iune 1626.
+
 **Types of content**
 
   * There are 2 **verse** lines!
